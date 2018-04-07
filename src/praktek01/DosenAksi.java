@@ -11,6 +11,10 @@ package praktek01;
  */
 public class DosenAksi {
     public static void main(String[] args){
+        Dosen TI = new Dosen();
+        Dosen SI = new Dosen();
+        Dosen MT = new Dosen();
+        
     
 }
 }
