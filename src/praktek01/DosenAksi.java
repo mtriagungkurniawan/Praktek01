@@ -33,6 +33,8 @@ public class DosenAksi {
         MT.Matkul="Teknik Informatika";
         MT.LM="4 Tahun";
         
-    
+        TI.cetakInfo();
+        SI.cetakInfo();
+        MT.cetakInfo();
 }
 }
