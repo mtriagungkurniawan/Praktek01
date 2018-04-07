@@ -10,5 +10,17 @@ package praktek01;
  * @author user
  */
 public class Dosen {
+    String ND;
+    String NIP;
+    String Alamat;
+    String Matkul;
+    String LM;
     
-}
+    void cetakInfo(){
+        System.out.println("Nama Dosen :"+ND);
+        System.out.println("NIP:"+NIP);
+        System.out.println("Alamat :"+Alamat);
+        System.out.println("Mata Kuliah :"+Matkul);
+        System.out.println("Lama Mengajar :"+LM);
+    }
+}   
